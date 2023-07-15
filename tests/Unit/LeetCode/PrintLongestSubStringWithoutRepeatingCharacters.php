@@ -4,7 +4,7 @@ namespace LeetCode;
 
 use Tests\TestCase;
 
-class PrintLongestSubstringWithoutRepeatingCharacters extends TestCase
+class PrintLongestSubStringWithoutRepeatingCharacters extends TestCase
 {
     public function printLongestSubStringWithoutRepeatingCharacters(string $s): string
     {
